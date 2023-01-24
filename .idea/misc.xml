@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Pramuditha De Silva/HDSE 20.2F/2nd Sememster 1st Modules/MAD/MyApplication2/app/src/main/res/layout/activity_location.xml" value="0.136" />
+        <entry key="..\:/Pramuditha De Silva/HDSE 20.2F/2nd Sememster 1st Modules/MAD/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.192481884057971" />
+        <entry key="..\:/Pramuditha De Silva/HDSE 20.2F/2nd Sememster 1st Modules/MAD/MyApplication2/app/src/main/res/layout/activity_main2.xml" value="0.4" />
+        <entry key="..\:/Pramuditha De Silva/HDSE 20.2F/2nd Sememster 1st Modules/MAD/MyApplication2/app/src/main/res/layout/activity_pizza_store.xml" value="0.1375" />
+        <entry key="..\:/Pramuditha De Silva/HDSE 20.2F/2nd Sememster 1st Modules/MAD/MyApplication2/app/src/main/res/layout/activity_thired.xml" value="0.192481884057971" />
+        <entry key="..\:/Pramuditha De Silva/HDSE 20.2F/2nd Sememster 1st Modules/MAD/MyApplication2/app/src/main/res/layout/activity_youtube.xml" value="0.192481884057971" />
+        <entry key="..\:/Pramuditha De Silva/HDSE 20.2F/2nd Sememster 1st Modules/MAD/MyApplication2/app/src/main/res/layout/map_details_layout.xml" value="0.1375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
